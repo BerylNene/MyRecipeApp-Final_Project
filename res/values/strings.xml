@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyRecipeApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+ <string name="title_activity_recipes">African Dishes</string>   
+<string name="african_recipe1">Egusi Soup</string>
+<string name="african_recipe2">Okra Soup</string>
+<string name="african_recipe3">Ogbono Soup</string>
+<string name="african_recipe4">Banga Soup</string>
+<string name="african_recipe5">Edika-ikong Soup</string>
+<string name="african_recipe6">Fried Rice</string>
+<string name="african_recipe7">Jollof Rice</string>
+<string name="african_recipe8">Concoction Rice</string>
+<string name="description_african_recipe1">The Nigerian Egusi soup, prepared with melon seeds, is native to the southern part of Nigeria - Igbos and Yorubas.
+Egusi soup is also one of the most popular soups for all Nigerians and non-Nigerians that like Nigerian fufu recipes. It is known as Miyan Gushi in Hausa.</string>
+<string name="description_african_recipe2">Okra Soup is one of the quickest and easiest Nigerian soups to prepare. Some argue that a lot of work goes to the cutting of the two vegetables used in preparing this recipe. Yes but once the vegetables are ready; it cooks in no time at all.
+How to cook Okra Soup.This soup is known as Miyan Kubewa in Hausa.</string>
+<string name="description_african_recipe3">Ogbono Soup also known as Draw Soup makes eating Fufu Recipes so easy because of its slimy nature which helps the lumps of fufu slide down. If your kids do not like Okra Soup because of the chunks of Okra, then try Ogbono Soup, they will surely love it.</string>
+<string name="description_african_recipe4">The Nigerian Banga Soup or Ofe Akwu is native to the Niger Delta and the South Eastern parts of Nigeria. In the Niger Delta areas, Banga soup is commonly eaten with various fufu recipes: Starch, Pounded Yam, Semolina, Garri and Cassava Fufu. </string>
+<string name="description_african_recipe5">The Nigerian Edikang Ikong soup or simply Vegetable Soup is native to the Efiks, people from Akwa Ibom and Cross River states of Nigeria. It is a general notion that the Edikang Ikong soup is very nutritious and this is very much so. Prepared with a generous quantity of pumpkin leaves and water leaves, this Nigerian soup recipe is nourishing in every sense of the word.</string>
+<string name="description_african_recipe6">The Nigerian Fried Rice must be the best thing that happened to birthday parties, weddings, street parties, picnics, special events and occasions.</string>
+<string name="description_african_recipe7">The Nigerian food recipe discussed here is the classic Nigerian Jollof Rice prepared at parties. This is the most popular Nigerian rice recipe. This is why you will always see it in parties. It is quite easy to prepare if you follow the simple steps.</string>
+<string name="description_african_recipe8">Nigerian Concoction Rice is a very traditional Nigerian rice recipe prepared with ingredients we don\'t normally use in preparing the classic Nigerian Jollof Rice.</string>
+
+<string name="title_activity_recipes2">Asia Dishes</string>   
+<string name="asia_recipe1">Bourbon Chicken</string>
+<string name="asia_recipe2">Chicken Tikka Masala</string>
+<string name="asia_recipe3">Curried Coconut Chicken</string>
+<string name="asia_recipe4">Naan</string>
+<string name="asia_recipe5">General Tso Tofu</string>
+<string name="asia_recipe6">egg Drop Soup</string>
+<string name="asia_recipe7">Indian Butter Chicken</string>
+<string name="asia_recipe8">Yakisoba</string>
+<string name="asia_recipe9">baked Lumpia Rolls</string>
+<string name="asia_recipe10">Pita Sandwich</string>
+<string name="asia_recipe11">Peanutty Sesame noodles</string>
+
+<string name="description_asia_recipe1">Named Bourbon Chicken because it was supposedly created by a Chinese cook who worked in a restaurant on Bourbon Street. </string>
+<string name="description_asia_recipe2">chunks of chicken marinated in spices and yogurt, that is then baked in a tandoor oven, and served in a masala (spice mix) sauce.  </string>
+<string name="description_asia_recipe3">Chicken curry is usually garnished with coriander leaves, and served with rice or roti. </string>
+<string name="description_asia_recipe4">Naan is a leavened, oven-baked flatbread[1] found in the cuisines of West, Central and South Asia.  </string>
+<string name="description_asia_recipe5">General Tso\'s chicken is a sweet, slightly spicy, deep-fried chicken dish that is popularly served in American and Canadian Chinese restaurants.  </string>
+<string name="description_asia_recipe6">Egg drop soup is a Chinese soup of wispy beaten eggs in boiled chicken broth.  </string>
+<string name="description_asia_recipe7">Indian utter chicken is a classic staple of Indian Cuisine, readily available both in its country of origin and abroad in many Indian restaurants.  </string>
+<string name="description_asia_recipe8">Yakisoba the same, but in sauce, is considered a Japanese dish but originated in China and is technically a derivative of Chinese chow mein.  </string>
+<string name="description_asia_recipe9">The recipes, both fried and fresh versions, were brought by Chinese immigrants from the Fujian province of China to Southeast Asia and became popular where they settled in Indonesia and the Philippines.  </string>
+<string name="description_asia_recipe10">is a soft, slightly leavened flatbread baked from wheat flour.  </string>
+<string name="description_asia_recipe11">Peanutty Sesame noodles is a creamy and great noodles with the great taste of peanut  </string>
+
+
+<string name="title_activity_recipes3">Antarctica Dishes</string>   
+<string name="antarctica_recipe1">Herby toad in the hole</string>
+<string name="antarctica_recipe2">Cassoulet Au Canard</string>
+<string name="antarctica_recipe3">Gambas Pil Pil</string>
+<string name="antarctica_recipe4">Kumara Bread with Pecans</string>
+<string name="antarctica_recipe5">Norwagian Rice</string>
+<string name="antarctica_recipe6">Churros</string>
+<string name="antarctica_recipe7">Argentine Rice-Veggie Salad</string>
+<string name="antarctica_recipe8">Empanadas</string>
+<string name="antarctica_recipe9">chicken,Red Pepper Salad Sandwich</string>
+
+<string name="description_antarctica_recipe1">A Nice Herby toad in the hole</string>
+<string name="description_antarctica_recipe2">A nice Cassoulet Au Canard </string>
+<string name="description_antarctica_recipe3">A delicious Gambas Pil Pil</string>
+<string name="description_antarctica_recipe4">Amazing goodness of Kumara Bread with Pecans </string>
+<string name="description_antarctica_recipe5"> Creamy Norwagian Rice</string>
+<string name="description_antarctica_recipe6">Delicious Churros</string>
+<string name="description_antarctica_recipe7">Awesome Argentine Rice-Veggie Salad</string>
+<string name="description_antarctica_recipe8">Amazing delicious Empanadas</string>
+<string name="description_antarctica_recipe9"> Great tasting chicken and Red Bell Pepper Salad Sandwich</string>
+
+<string name="title_activity_recipes4">Australia Dishes</string>   
+<string name="australia_recipe1">Wiener Schnitzel</string>
+<string name="australia_recipe2">Vanille Kipferl</string>
+<string name="australia_recipe3">Knodel</string>
+<string name="australia_recipe4">Austrian Chocolate balls</string>
+<string name="australia_recipe5">Kaiserschmarrn</string>
+<string name="australia_recipe6">Dobos Torte</string>
+<string name="australia_recipe7">Vienna Schnitzel</string>
+<string name="australia_recipe8">German Apple Strudel</string>
+
+<string name="description_australia_recipe1">A Nice Wiener Schnitzel</string>
+<string name="description_australia_recipe2">A nice Cassoulet Au Canard </string>
+<string name="description_australia_recipe3">A delicious Vanille Kipferl</string>
+<string name="description_australia_recipe4">Amazing goodness Knodel</string>
+<string name="description_australia_recipe5"> Creamy Austrian Chocolate balls</string>
+<string name="description_australia_recipe6">Delicious Kaiserschmarrn</string>
+<string name="description_australia_recipe7">Awesome Vienna Schnitzel</string>
+<string name="description_australia_recipe8">Amazing delicious German Apple Strudel</string>
+
+<string name="title_activity_recipes5">Europe Dishes</string>   
+<string name="europe_recipe1">Hearty Meatball Sandwich</string>
+<string name="europe_recipe2">Parmesan Chicken Bake</string>
+<string name="europe_recipe3">Chicken Scallopini</string>
+<string name="europe_recipe4">English Sausage Roll</string>
+<string name="europe_recipe5">Yorkshire Pudding</string>
+<string name="europe_recipe6">Beef Wellington</string>
+<string name="europe_recipe7">English Butter Tarts</string>
+<string name="europe_recipe8">Scotch Shortbread</string>
+<string name="europe_recipe9">Baklava</string>
+
+<string name="description_europe_recipe1">A Nice Hearty Meatball Sandwic</string>
+<string name="description_europe_recipe2">A nice Parmesan Chicken Bake</string>
+<string name="description_europe_recipe3">A delicious Chicken Scallopini</string>
+<string name="description_europe_recipe4">Amazing goodness English Sausage Roll</string>
+<string name="description_europe_recipe5"> Creamy Yorkshire Pudding</string>
+<string name="description_europe_recipe6">Delicious Beef Wellington</string>
+<string name="description_europe_recipe7">Awesome English Butter Tarts</string>
+<string name="description_europe_recipe8">Amazing delicious Scotch Shortbread</string>
+<string name="description_europe_recipe9">Amazing delicious Baklava</string>
+
+<string name="title_activity_recipes6">North America Dishes</string>   
+<string name="north_america_recipe1">Fun Karnal</string>
+<string name="north_america_recipe2">Egg and Tomato Sauce</string>
+<string name="north_america_recipe3">New Orleans Barbeque Shrimp</string>
+<string name="north_america_recipe4">Poutine</string>
+<string name="north_america_recipe5">Sucre A La Creme</string>
+<string name="north_america_recipe6">French Onion Soup</string>
+<string name="north_america_recipe7">Pollock Montreal</string>
+<string name="north_america_recipe8">MeatPie</string>
+
+<string name="description_north_america_recipe1">A Nice Fun Karnal</string>
+<string name="description_north_america_recipe2">A delicious Egg and Tomato Sauce</string>
+<string name="description_north_america_recipe3">Amazing goodness New Orleans Barbeque Shrimp</string>
+<string name="description_north_america_recipe4"> Creamy Poutine</string>
+<string name="description_north_america_recipe5">Delicious Sucre A La Creme</string>
+<string name="description_north_america_recipe6">Awesome French Onion Soup</string>
+<string name="description_north_america_recipe7">Pollock Montreal</string>
+<string name="description_north_america_recipe8">Amazing delicious MeatPie</string>
+
+<string name="title_activity_recipes7">South America Dishes</string>   
+<string name="south_america_recipe1">Brazilian Black Beans Stew</string>
+<string name="south_america_recipe2">Picadinho A Brasiliera</string>
+<string name="south_america_recipe3">Chicken Soup With Root Vegetables</string>
+<string name="south_america_recipe4">Frijoles Colombianos</string>
+<string name="south_america_recipe5">Buffalo Chicken Potato Salad</string>
+<string name="south_america_recipe6">Peruvian Steak Rice Beans</string>
+<string name="south_america_recipe7">Bollos Picantes Vegetarianos</string>
+<string name="south_america_recipe8">Pansitos De Jamon</string>
+
+<string name="description_south_america_recipe1">A Nice Hearty Brazilian Black Beans</string>
+<string name="description_south_america_recipe2">A nice Picadinho A Brasiliera</string>
+<string name="description_south_america_recipe3">A delicious Chicken Soup With Root Vegetables</string>
+<string name="description_south_america_recipe4">Amazing goodness Frijoles Colombianos</string>
+<string name="description_south_america_recipe5"> Creamy Yellow Potatoes with Chicken Salad</string>
+<string name="description_south_america_recipe6">Delicious Peruvian Steak Rice Beans</string>
+<string name="description_south_america_recipe7">Awesome Bollos Picantes Vegetarianos</string>
+<string name="description_south_america_recipe8">Amazing delicious Pansitos De Jamon</string>
+
+
+
+
+</resources>

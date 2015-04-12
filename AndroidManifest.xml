@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.berylnene.myrecipeapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/my_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+             
+        </activity>
+        <activity android:name=".ListViewContinent"
+        			android:label="@string/app_name"></activity>
+        
+        <activity android:name=".AfricaMainActivity"
+        			android:label="@string/app_name"></activity>
+        
+        <activity android:name=".AntarcticaMainActivity"
+        			android:label="@string/app_name"></activity>
+        
+        <activity
+            android:name=".AsiaMainActivity"
+            android:label="@string/app_name"></activity>
+        
+         <activity android:name=".AustraliaMainActivity"
+        			android:label="@string/app_name"></activity>
+         
+         <activity android:name=".EuropeMainActivity"
+        			android:label="@string/app_name"></activity>
+         
+         <activity android:name=".NorthAmericaMainActivity"
+        			android:label="@string/app_name"></activity>
+         
+         <activity android:name=".SouthAmericaMainActivity"
+        			android:label="@string/app_name"></activity>
+         
+    </application>
+
+</manifest>
